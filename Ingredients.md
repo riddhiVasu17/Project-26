@@ -1,6 +1,6 @@
-INGREDIENTS :-
+<b>INGREDIENTS :-</b>
 
-Chocolate Cake:
+<i>Chocolate Cake:</i>
 2 cup all-purpose flour
 2 cups granulated sugar
 3/4 cup Dutch-processed cocoa powder sifted
@@ -13,19 +13,19 @@ Chocolate Cake:
 2 large eggs
 2 tsp vanilla
 
-Cherry Liqueur Syrup:
+<i>Cherry Liqueur Syrup:</i>
 1/2 cup granulated sugar
 1/2 cup water
 1/4 cup cherry liqueur
 
-Whipped Cream Frosting:
+<i>Whipped Cream Frosting:</i>
 3 cup whipping cream cold
 1/4 cup powdered sugar sifted
 
-Chocolate Bark:
+<i>Chocolate Bark:</i>
 250 g good quality dark chocolate chopped
 
-Assembly:
+<i>Assembly:</i>
 2 1/2 cups cherries pitted and cut in half
 1 bar dark chocolate for shavings (optional)
 cherries
