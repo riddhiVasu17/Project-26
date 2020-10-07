@@ -1,4 +1,4 @@
-RECIPE :-
+<b>RECIPE :-</b>
 
 Chocolate Cake:
 Preheat oven to 350F, grease two 8" round baking pans and dust with cocoa powder. Line bottoms with parchment.
