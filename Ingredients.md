@@ -1,4 +1,4 @@
-Ingredients :-
+INGREDIENTS :-
 
 Chocolate Cake:
 2 cup all-purpose flour
@@ -21,7 +21,12 @@ Cherry Liqueur Syrup:
 Whipped Cream Frosting:
 3 cup whipping cream cold
 1/4 cup powdered sugar sifted
+
 Chocolate Bark:
 250 g good quality dark chocolate chopped
 
+Assembly:
+2 1/2 cups cherries pitted and cut in half
+1 bar dark chocolate for shavings (optional)
+cherries
 _________________________________________________________________________________________________________________________________________________________________________________
