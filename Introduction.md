@@ -12,5 +12,5 @@ Don't be late! Get millions of recipies, just at <b><i>SwissCakes!</i></b>
 
 This Week is gonna be special! As, the CEO of SwissCakes, Riddhi Vasu, is learning coding. She is going to tell you recipies through COMPUTER SCIENCE!!!
 
-This week is --- The Fore
+This week is --- <b>The Cakie Crunch Week</b>
 
