@@ -1,4 +1,4 @@
-<b>INGREDIENTS 🍰:-</b>
+<b>INGREDIENTS 🍰 :-</b>
 
 <i>Chocolate Cake:</i>
 2 cup all-purpose flour
