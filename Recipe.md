@@ -12,7 +12,7 @@
  <i>Cherry Liqueur Syrup:</i> <br>
 • Place sugar and water into a small pot. Stir and bring to a boil. Simmer for 1 min then remove from heat. Stir in cherry liqueur and allow to cool completely.
 
- <i>Whipped Cream Frosting:</i>
+ <i>Whipped Cream Frosting:</i> <br>
 • Whip cream and powdered sugar until stiff peaks. Ideally in a cold bowl with a cold whisk.
 
  <i>Chocolate Bark:</i> <br>
