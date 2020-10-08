@@ -1,7 +1,7 @@
 <b>INGREDIENTS 🍰 :-</b>
 
 <i>Chocolate Cake:</i>
-2 cup all-purpose flour
+2 cup all-purpose flour <br>
 2 cups granulated sugar
 3/4 cup Dutch-processed cocoa powder sifted
 2 tsp baking soda
