@@ -1,6 +1,6 @@
 # Halo Cakies!<i>
 
-Welcome to the world of Cakes and Cakies! - <b><i>SwissCakes</i></b>
+## Welcome to the world of Cakes and Cakies! - <b><i>SwissCakes</i></b>
 
 Is there Birthday of someone here? If yes, be sure to check our recipies or Order Them Online. If no, it will be there!
 
