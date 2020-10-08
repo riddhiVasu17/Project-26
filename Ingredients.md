@@ -13,20 +13,20 @@
 2 large eggs <br>
 2 tsp vanilla <br>
 
-<i>Cherry Liqueur Syrup:</i>
-1/2 cup granulated sugar
-1/2 cup water
-1/4 cup cherry liqueur
+<i>Cherry Liqueur Syrup:</i> <br>
+1/2 cup granulated sugar <br>
+1/2 cup water <br>
+1/4 cup cherry liqueur <br>
 
-<i>Whipped Cream Frosting:</i>
-3 cup whipping cream cold
-1/4 cup powdered sugar sifted
+<i>Whipped Cream Frosting:</i> <br>
+3 cup whipping cream cold <br>
+1/4 cup powdered sugar sifted <br>
 
-<i>Chocolate Bark:</i>
-250 g good quality dark chocolate chopped
+<i>Chocolate Bark:</i> <br>
+250 g good quality dark chocolate chopped <br>
 
-<i>Assembly:</i>
-2 1/2 cups cherries pitted and cut in half
-1 bar dark chocolate for shavings (optional)
-cherries
+<i>Assembly:</i> <br>
+2 1/2 cups cherries pitted and cut in half <br>
+1 bar dark chocolate for shavings (optional) <br>
+cherries <br>
 _________________________________________________________________________________________________________________________________________________________________________________
